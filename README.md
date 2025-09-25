@@ -1,5 +1,5 @@
 # End to end Text-Summarizer-Project
-#BriefAI
+# BriefAI
 
 ## Workflows
 
@@ -47,16 +47,6 @@ Now,
 ```bash
 open up you local host and port
 ```
-
-
-```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
-
-```
-
-
 
 # AWS-CICD-Deployment-with-Github-Actions
 
